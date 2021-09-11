@@ -1,0 +1,32 @@
+.flex
+{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    height: 650px;
+    align-items: center;
+    /* border: 2px solid gray; */
+    width: 100%;
+}
+.icon
+{
+    padding: 25px;
+    width: 50%;
+    /* border: 2px solid red; */
+    text-align: right ;
+}
+.teams
+{
+    padding: 35px;
+    border: 2px solid gray;
+    box-shadow: 3px 4px 5px rgba(119, 115, 115, 0.794);
+    width: 50%;
+    
+}
+.teamBox
+{
+    padding: 35px;
+    border: 2px solid gray;
+    width: 80%;
+  
+}
